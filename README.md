@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-Python, SQL, Power BI, Django
+Python, SQL, Power BI
 
 
 ## 🌐 Socials:
